@@ -3,6 +3,7 @@ public class BubbleSort {
 
         int[] intArray = {55, 12, -12, 32, 1, -44, 7};
 
+        // logic for the function
         for(int lastUnsortedIndex = intArray.length - 1; lastUnsortedIndex > 0; lastUnsortedIndex--){
             for(int i = 0; i < lastUnsortedIndex; i++){
                 if(intArray[i] > intArray[i + 1]){
@@ -15,6 +16,7 @@ public class BubbleSort {
         }
 
     }
+    // swap method
     public static void swap(int[] array, int i, int j){
         if(i == j){
             return;
