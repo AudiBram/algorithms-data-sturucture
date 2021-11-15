@@ -10,7 +10,7 @@
  * Explanation: The sum of 2 and 7 is 9. Therefore, index1 = 1, index2 = 2. We return [1, 2].
  */
 
-public class twoSumII {
+public class TwoSumII {
     public int[] twoSum(int[] numbers, int target){
 
         int start = 0;
