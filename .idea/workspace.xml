@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56f02eb5-7748-4b8e-acca-d92a3a40c4bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Merge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +29,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Merge">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="DSA" />
@@ -39,8 +42,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
+    <configuration name="ImreFizz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImreFizz" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Merge" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,10 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Merge" />
         <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.ImreFizz" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.FizzBuzz" />
       </list>
     </recent_temporary>
   </component>
