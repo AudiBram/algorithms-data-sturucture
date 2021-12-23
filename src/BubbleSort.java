@@ -16,7 +16,7 @@ public class BubbleSort {
         }
 
     }
-    // swap method
+    // swap method function
     public static void swap(int[] array, int i, int j){
         if(i == j){
             return;
