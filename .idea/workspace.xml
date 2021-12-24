@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56f02eb5-7748-4b8e-acca-d92a3a40c4bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SquaresSortedArray.java" afterDir="false" />
-    </list>
+    <list default="true" id="56f02eb5-7748-4b8e-acca-d92a3a40c4bc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,7 @@
   </component>
   <component name="RunManager" selected="Application.Merge">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
+      <option name="MAIN_CLASS_NAME" value="Easy.BubbleSort" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,7 +61,7 @@
       </method>
     </configuration>
     <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelectionSort" />
+      <option name="MAIN_CLASS_NAME" value="Easy.SelectionSort" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
