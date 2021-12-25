@@ -20,14 +20,15 @@ public class ValidParentheses {
 
         Stack<Character> stack = new Stack();
         for (int i = 0; i < s.length(); i++) {
-            if (stack.empty() || s.charAt(i) == '(' || s.charAt(i) == '{' || s.charAt(i) == '[') {
+            char a = s.charAt(i);
+            if (stack.empty() || a == '(' || a == '{' || a == '[') {
                 stack.push(s.charAt(i));
             } else {
-                if (stack.peek() != '[' && s.charAt(i) == ']') {
+                if (stack.peek() != '[' && a == ']') {
                     return false;
-                } else if (stack.peek() != '(' && s.charAt(i) == ')') {
+                } else if (stack.peek() != '(' && a == ')') {
                     return false;
-                } else if (stack.peek() != '{' && s.charAt(i) == '}') {
+                } else if (stack.peek() != '{' && a == '}') {
                     return false;
                 } else {
                     stack.pop();
