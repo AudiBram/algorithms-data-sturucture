@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56f02eb5-7748-4b8e-acca-d92a3a40c4bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Medium/NumberOfIsland.java" afterDir="false" />
-    </list>
+    <list default="true" id="56f02eb5-7748-4b8e-acca-d92a3a40c4bc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
