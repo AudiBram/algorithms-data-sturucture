@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56f02eb5-7748-4b8e-acca-d92a3a40c4bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Easy/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/BestTimeToBuyAndSellStockII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +111,10 @@
       <workItem from="1641477815646" duration="48000" />
       <workItem from="1641549922097" duration="271000" />
       <workItem from="1641568676986" duration="86000" />
+      <workItem from="1641657086406" duration="283000" />
+      <workItem from="1641833794517" duration="29000" />
+      <workItem from="1642594005500" duration="291000" />
+      <workItem from="1643210431160" duration="329000" />
     </task>
     <servers />
   </component>
