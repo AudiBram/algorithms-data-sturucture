@@ -1,5 +1,8 @@
 package Medium;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class ValidSudoku {
     public boolean isValidSudoku(char[][] board) {
 

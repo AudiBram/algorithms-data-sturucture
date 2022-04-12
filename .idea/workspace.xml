@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="56f02eb5-7748-4b8e-acca-d92a3a40c4bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Easy/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/BestTimeToBuyAndSellStockII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Medium/ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Medium/ValidSudoku.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
   <component name="ReaderModeSettings">
     <option name="showLigatures" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Merge">
+  <component name="RunManager" selected="Application.BubbleSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.BubbleSort" />
       <module name="DSA" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Merge" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.ImreFizz" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +114,10 @@
       <workItem from="1641657086406" duration="283000" />
       <workItem from="1641833794517" duration="29000" />
       <workItem from="1642594005500" duration="291000" />
-      <workItem from="1643210431160" duration="329000" />
+      <workItem from="1643210431160" duration="484000" />
+      <workItem from="1643253856601" duration="31000" />
+      <workItem from="1643254115464" duration="505000" />
+      <workItem from="1644161485319" duration="231000" />
     </task>
     <servers />
   </component>
