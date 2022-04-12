@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56f02eb5-7748-4b8e-acca-d92a3a40c4bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Easy/PalindromeLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/MergeSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +119,7 @@
       <workItem from="1643253856601" duration="31000" />
       <workItem from="1643254115464" duration="505000" />
       <workItem from="1644161485319" duration="231000" />
-      <workItem from="1649784276323" duration="656000" />
+      <workItem from="1649784276323" duration="1276000" />
     </task>
     <servers />
   </component>
